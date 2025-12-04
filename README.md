@@ -1,0 +1,1 @@
+This project extract financial data, such as historical share prices and quarterly revenue reports, from various sources using Python libraries and web scraping techniques. After collecting this data, you will visualize it in a dashboard to identify patterns or trends. The stocks included in the project are Tesla, Amazon, AMD, and GameStop.
